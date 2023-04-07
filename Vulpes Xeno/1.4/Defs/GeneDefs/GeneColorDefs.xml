@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <GeneDef ParentName="GeneSkinColorOverride">
+    <!--Arctic-->
+        <defName>ArcticVulpesGene</defName>
+        <label>Arctic Vulpes skin</label>
+        <labelShortAdj>arctic</labelShortAdj>
+        <description>...</description>
+        <skinColorOverride>(230, 255, 255)</skinColorOverride>
+        <displayOrderInCategory>7</displayOrderInCategory>
+        <displayCategory>VulpesXenos</displayCategory>
+    </GeneDef>
+    <GeneDef ParentName="GeneSkinColorOverride">
+    <!--Fox Orange-->
+        <defName>OrangeVulpesGene</defName>
+        <label>Orange Vulpes skin</label>
+        <labelShortAdj>orange</labelShortAdj>
+        <description>...</description>
+        <skinColorOverride>(255, 153, 0)</skinColorOverride>
+        <displayOrderInCategory>8</displayOrderInCategory>
+        <displayCategory>VulpesXenos</displayCategory>
+    </GeneDef>
+    <GeneDef ParentName="GeneSkinColorOverride">
+    <!--Kinda Gray-->
+        <defName>KindaGrayVulpesGene</defName>
+        <label>Kinda Gray Vulpes skin</label>
+        <labelShortAdj>gray</labelShortAdj>
+        <description>...</description>
+        <skinColorOverride>(130, 130, 130)</skinColorOverride>
+        <displayOrderInCategory>9</displayOrderInCategory>
+        <displayCategory>VulpesXenos</displayCategory>
+    </GeneDef>
+    <GeneDef ParentName="GeneSkinColorOverride">
+    <!--Pinky-->
+        <defName>PinkyVulpesGene</defName>
+        <label>Pinky Vulpes skin</label>
+        <labelShortAdj>pink</labelShortAdj>
+        <description>...</description>
+        <skinColorOverride>(234,163,137)</skinColorOverride>
+        <displayOrderInCategory>10</displayOrderInCategory>
+        <displayCategory>VulpesXenos</displayCategory>
+        <symbolPack>
+            <prefixSymbols>
+                <li><symbol>pink</symbol></li>
+            </prefixSymbols>
+        </symbolPack>
+    </GeneDef>
+</Defs>

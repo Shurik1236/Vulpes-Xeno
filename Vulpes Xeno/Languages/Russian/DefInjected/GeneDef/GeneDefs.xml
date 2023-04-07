@@ -1,0 +1,41 @@
+<LanguageData>
+  <VulpesBodyGene.label>Тело Vulpes</VulpesBodyGene.label>
+  <VulpesBodyGene.description>...</VulpesBodyGene.description>
+  <VulpesBodyGene.labelShortAdj>...</VulpesBodyGene.labelShortAdj>
+
+  <VulpesHeadGene.label>Голова Vulpes</VulpesHeadGene.label>
+  <VulpesHeadGene.description>...</VulpesHeadGene.description>
+  <VulpesHeadGene.labelShortAdj>...</VulpesHeadGene.labelShortAdj>
+  
+  <VulpesEarGene.label>Уши Vulpes</VulpesEarGene.label>
+  <VulpesEarGene.description>...</VulpesEarGene.description>
+  <VulpesEarGene.labelShortAdj>...</VulpesEarGene.labelShortAdj>
+
+  <VulpesEyeGene.label>Глаза Vulpes</VulpesEyeGene.label>
+  <VulpesEyeGene.description>...</VulpesEyeGene.description>
+  <VulpesEyeGene.labelShortAdj>...</VulpesEyeGene.labelShortAdj>
+  
+  <VulpesEyeHGene.label>Глаза Vulpes (Для обычной головы)</VulpesEyeHGene.label>
+  <VulpesEyeHGene.description>...</VulpesEyeHGene.description>
+  <VulpesEyeHGene.labelShortAdj>...</VulpesEyeHGene.labelShortAdj>
+  
+  <VulpesTailGene.label>Хвост Vulpes</VulpesTailGene.label>
+  <VulpesTailGene.description>...</VulpesTailGene.description>
+  <VulpesTailGene.labelShortAdj>...</VulpesTailGene.labelShortAdj>
+
+  <ArcticVulpesGene.label>Arctic Vulpes skin</ArcticVulpesGene.label>
+  <ArcticVulpesGene.description>...</ArcticVulpesGene.description>
+  <ArcticVulpesGene.labelShortAdj>...</ArcticVulpesGene.labelShortAdj>
+
+  <OrangeVulpesGene.label>Orange Vulpes skin</OrangeVulpesGene.label>
+  <OrangeVulpesGene.description>...</OrangeVulpesGene.description>
+  <OrangeVulpesGene.labelShortAdj>...</OrangeVulpesGene.labelShortAdj>
+  
+  <KindaGrayVulpesGene.label>Kinda Gray Vulpes skin</KindaGrayVulpesGene.label>
+  <KindaGrayVulpesGene.description>...</KindaGrayVulpesGene.description>
+  <KindaGrayVulpesGene.labelShortAdj>...</KindaGrayVulpesGene.labelShortAdj>
+  
+  <PinkyVulpesGene.label>Pinky Vulpes skin</PinkyVulpesGene.label>
+  <PinkyVulpesGene.description>...</PinkyVulpesGene.description>
+  <PinkyVulpesGene.labelShortAdj>...</PinkyVulpesGene.labelShortAdj>
+</LanguageData>

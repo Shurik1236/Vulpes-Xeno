@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <HeadTypeDef>
+    <defName>VulpesHeadFemale</defName>
+    <graphicPath>Things/Pawn/Humanlike/Vulpes/Head/Female_Naked</graphicPath>
+    <gender>Female</gender>
+    <randomChosen>false</randomChosen>
+    <modExtensions>
+		<li Class="GeneTools.GeneToolsHeadTypeDef">
+			<useShader>true</useShader>
+		</li>
+	</modExtensions>
+  </HeadTypeDef>
+  
+  <HeadTypeDef>
+    <defName>VulpesHeadMale</defName>
+    <graphicPath>Things/Pawn/Humanlike/Vulpes/Head/Male_Naked</graphicPath>
+    <gender>Male</gender>
+    <randomChosen>false</randomChosen>
+    <modExtensions>
+		<li Class="GeneTools.GeneToolsHeadTypeDef">
+			<useShader>true</useShader>
+		</li>
+	</modExtensions>
+  </HeadTypeDef>
+  
+</Defs>

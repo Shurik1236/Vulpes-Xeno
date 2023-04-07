@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/FactionDef[defName="OutlanderFactionBase"]/xenotypeSet/xenotypeChances</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/FactionDef[defName="OutlanderFactionBase"]/xenotypeSet/xenotypeChances</xpath>
+			<value>
+				<VulpesXeno MayRequire="Ludeon.RimWorld.Biotech">0.05</VulpesXeno>
+			</value>
+		</match>
+	</Operation>
+	
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/FactionDef[defName="OutlanderCivil"]/xenotypeSet/xenotypeChances</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/FactionDef[defName="OutlanderCivil"]/xenotypeSet/xenotypeChances</xpath>
+			<value>
+				<VulpesXeno MayRequire="Ludeon.RimWorld.Biotech">0.05</VulpesXeno>
+			</value>
+		</match>
+		<nomatch Class="PatchOperationAdd">
+			<xpath>Defs/FactionDef[defName="OutlanderCivil"]</xpath>
+			<value>
+				<xenotypeSet>
+					<xenotypeChances>
+						<VulpesXeno MayRequire="Ludeon.RimWorld.Biotech">0.05</VulpesXeno>
+					</xenotypeChances>
+				</xenotypeSet>
+			</value>
+		</nomatch>
+	</Operation>
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>Defs/FactionDef[defName="Empire"]/xenotypeSet/xenotypeChances</xpath>
+		<match Class="PatchOperationAdd">
+			<xpath>Defs/FactionDef[defName="Empire"]/xenotypeSet/xenotypeChances</xpath>
+			<value>
+				<VulpesXeno MayRequire="Ludeon.RimWorld.Biotech">0.05</VulpesXeno>
+			</value>
+		</match>
+	</Operation>
+</Patch>
